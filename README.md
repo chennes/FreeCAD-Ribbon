@@ -2,8 +2,8 @@
 
 Some images for testing:
 
-![Screenshot](https://github.com/APEbbers/FreeCAD-Ribbon/blob/main/Resources/Images/Screenshot.png "Screenshot")
-![Closeup](https://github.com/APEbbers/FreeCAD-Ribbon/blob/main/Resources/Images/Screenshot_CloseUP.png "Closeup")
+![Screenshot](https://github.com/chennes/FreeCAD-Ribbon-Test/blob/patch-1/Resources/Images/Screenshot.png)
+![Closeup](https://github.com/chennes/FreeCAD-Ribbon/blob-Test/patch-1/Resources/Images/Screenshot_CloseUP.png)
 
 
 ![Screenshot in Dark Mode](https://github.com/APEbbers/FreeCAD-Ribbon/blob/main/Resources/Images/Screenshot_DarkMode.png)
