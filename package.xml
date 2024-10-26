@@ -15,11 +15,9 @@
 
   <pythonmin>3.8.0</pythonmin>
 
-  <url type="website">https://github.com/APEbbers/FreeCAD-Ribbon/wiki</url>
+  <url branch="patch-1" type="repository">https://github.com/chennes/FreeCAD-Ribbon-Test</url>
 
-  <url branch="patch-1" type="repository">https://github.com/APEbbers/FreeCAD-Ribbon</url>
-
-  <url type="readme">https://github.com/APEbbers/FreeCAD-Ribbon/blob/patch-1/README.md</url>
+  <url type="readme">https://github.com/chennes/FreeCAD-Ribbon/blob/patch-1/README.md</url>
 
   <content>
     <workbench>
