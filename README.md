@@ -2,12 +2,12 @@
 
 Some images for testing:
 
-![Screenshot](https://github.com/chennes/FreeCAD-Ribbon-Test/blob/patch-1/Resources/Images/Screenshot.png)
-![Closeup](https://github.com/chennes/FreeCAD-Ribbon/blob-Test/patch-1/Resources/Images/Screenshot_CloseUP.png)
+![Screenshot](Resources/Images/Screenshot.png)
+![Closeup](Resources/Images/Screenshot_CloseUP.png)
 
 
-![Screenshot in Dark Mode](https://github.com/APEbbers/FreeCAD-Ribbon/blob/main/Resources/Images/Screenshot_DarkMode.png)
-![Closeup in Dark Mode](https://github.com/APEbbers/FreeCAD-Ribbon/blob/main/Resources/Images/Screenshot_DarkMode_CloseUP.png)
+![Screenshot in Dark Mode](Resources/Images/Screenshot_DarkMode.png)
+![Closeup in Dark Mode](Resources/Images/Screenshot_DarkMode_CloseUP.png)
 
 The FreeCAD ribbon provides the following functions and features:
 
