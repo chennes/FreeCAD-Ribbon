@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
 
-  <name>FreeCAD Ribbon</name>
+  <name>FreeCAD Ribbon Test</name>
 
   <description>A Ribbon interface for FreeCAD</description>
 
@@ -17,9 +17,9 @@
 
   <url type="website">https://github.com/APEbbers/FreeCAD-Ribbon/wiki</url>
 
-  <url branch="main" type="repository">https://github.com/APEbbers/FreeCAD-Ribbon</url>
+  <url branch="patch-1" type="repository">https://github.com/APEbbers/FreeCAD-Ribbon</url>
 
-  <url type="readme">https://github.com/APEbbers/FreeCAD-Ribbon/blob/main/README.md</url>
+  <url type="readme">https://github.com/APEbbers/FreeCAD-Ribbon/blob/patch-1/README.md</url>
 
   <content>
     <workbench>
